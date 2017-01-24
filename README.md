@@ -1,6 +1,6 @@
 # 《C语言零基础入门到实战》
 
-## [开始阅读](directory.md)
+## [开始阅读](summary.md)
 
 ## 错误提交
 1. fork修改后Pull Request

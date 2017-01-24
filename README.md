@@ -1,5 +1,7 @@
 # 《C语言零基础入门到实战》
 
+## [开始阅读](directory.md)
+
 ## 错误提交
 1. fork修改后Pull Request
 1. 提交到[讨论区](https://coding.net/u/noxue/p/cyuyan/topic)

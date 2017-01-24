@@ -64,8 +64,8 @@
         <entry file="file://$PROJECT_DIR$/01.1.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="361">
-                <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <first_editor relative-caret-position="190">
+                <caret line="22" column="135" selection-start-line="22" selection-start-column="135" selection-end-line="22" selection-end-column="135" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -211,12 +211,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1485234762848</updated>
-      <workItem from="1485234764251" duration="20833000" />
+      <workItem from="1485234764251" duration="20915000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20833000" />
+    <option name="totallyTimeSpent" value="20915000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -293,8 +293,8 @@
     <entry file="file://$PROJECT_DIR$/01.1.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="361">
-            <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <first_editor relative-caret-position="190">
+            <caret line="22" column="135" selection-start-line="22" selection-start-column="135" selection-end-line="22" selection-end-column="135" />
             <folding />
           </first_editor>
           <second_editor />

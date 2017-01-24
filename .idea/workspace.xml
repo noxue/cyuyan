@@ -34,8 +34,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="summary.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/summary.md">
+      <file leaf-file-name="SUMMARY.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SUMMARY.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="17">
@@ -189,12 +189,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1485234762848</updated>
-      <workItem from="1485234764251" duration="4004000" />
+      <workItem from="1485234764251" duration="4478000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4004000" />
+    <option name="totallyTimeSpent" value="4478000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -235,7 +235,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/summary.md">
+    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="17">
